@@ -10,10 +10,7 @@ QCAN2 AGV unit support
 
    **QCAN2_manual_master_onedoc.pdf**
 
- The files can be viewed in the browser, and can be downloaded for offline viewing.
-
- The file is also available in an editable format, and the original master document
-with it's sub documents are included.
+ The files can be viewed in the browser, and can be downloaded for offline viewing. The file is also available in an editable format.
 
 ## Windows test utility screen shot
 
