@@ -17,7 +17,7 @@ with it's sub documents are included.
 
 ## Windows test utility screen shot
 
-![qcan2 Windows test utility screen shot](screen.png)
+![qcan2 Windows test utility screen shot](screenshot.png)
 
 #### Disclaimer:
 
